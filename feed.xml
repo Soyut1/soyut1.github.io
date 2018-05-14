@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>harmony-sekken</title>
+    <link href="file://C:\Users\Mehmet\Documents\Publii\sites\harmony-sekken\preview/feed.xml" rel="self" />
+    <link href="file://C:\Users\Mehmet\Documents\Publii\sites\harmony-sekken\preview" />
+    <updated>2018-05-14T22:15:45+09:00</updated>
+    <author>
+        <name>mehmet</name>
+    </author>
+    <id>file://C:\Users\Mehmet\Documents\Publii\sites\harmony-sekken\preview</id>
+
+    <entry>
+        <title>Contact Us</title>
+        <author>
+            <name>mehmet</name>
+        </author>
+        <link href="file://C:\Users\Mehmet\Documents\Publii\sites\harmony-sekken\preview/contact-us.html"/>
+        <id>file://C:\Users\Mehmet\Documents\Publii\sites\harmony-sekken\preview/contact-us.html</id>
+
+        <updated>2018-05-09T21:41:02+09:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="file://C:\Users\Mehmet\Documents\Publii\sites\harmony-sekken\preview/media/posts/6/scott-webb-186137-unsplash.jpg" alt="" />
+                <p>Drop us a line</p>
+<div><form>
+<p><label for="fname">First Name</label><br> <input id="fname" style="width: 300px;" name="firstname" type="text" placeholder="Your name.."></p>
+<p><label for="lname">Last Name</label><br> <input id="lname" style="width: 300px;" name="lastname" type="text" placeholder="Your last name.."></p>
+<p><label for="email">E-mail</label><br> <input id="email" style="width: 300px;" name="email" type="email" placeholder="Your E-mail.."></p>
+<p><label for="subject">Subject</label><br> <textarea id="subject" style="height: 150px; width: 500px;" name="subject" placeholder="Write something.."></textarea></p>
+<p><input type="submit" value="Submit"></p>
+</form></div>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Cok ustune gitmecen</title>
+        <author>
+            <name>mehmet</name>
+        </author>
+        <link href="file://C:\Users\Mehmet\Documents\Publii\sites\harmony-sekken\preview/cok-ustune-gitmecen.html"/>
+        <id>file://C:\Users\Mehmet\Documents\Publii\sites\harmony-sekken\preview/cok-ustune-gitmecen.html</id>
+
+        <updated>2018-05-09T21:40:33+09:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="file://C:\Users\Mehmet\Documents\Publii\sites\harmony-sekken\preview/media/posts/5/mark-daynes-35088-unsplash.jpg" alt="" />
+                <h2><img src="file://C:\Users\Mehmet\Documents\Publii\sites\harmony-sekken\preview/media/posts/5/IMG_20170805_193102.jpg" alt="" width="638" height="359"> </h2>
+<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Failure</title>
+        <author>
+            <name>mehmet</name>
+        </author>
+        <link href="file://C:\Users\Mehmet\Documents\Publii\sites\harmony-sekken\preview/failure.html"/>
+        <id>file://C:\Users\Mehmet\Documents\Publii\sites\harmony-sekken\preview/failure.html</id>
+
+        <updated>2018-05-09T21:49:37+09:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="file://C:\Users\Mehmet\Documents\Publii\sites\harmony-sekken\preview/media/posts/4/nordwood-themes-162928-unsplash.jpg" alt="" />
+                <h3>Why do we use it?</h3>
+<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Esme Kilim</title>
+        <author>
+            <name>mehmet</name>
+        </author>
+        <link href="file://C:\Users\Mehmet\Documents\Publii\sites\harmony-sekken\preview/Esme-Kilim.html"/>
+        <id>file://C:\Users\Mehmet\Documents\Publii\sites\harmony-sekken\preview/Esme-Kilim.html</id>
+
+        <updated>2018-05-09T21:38:41+09:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="file://C:\Users\Mehmet\Documents\Publii\sites\harmony-sekken\preview/media/posts/3/brooke-lark-265170-unsplash.jpg" alt="" />
+                <p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Bamboo Charcoal Sekken</title>
+        <author>
+            <name>mehmet</name>
+        </author>
+        <link href="file://C:\Users\Mehmet\Documents\Publii\sites\harmony-sekken\preview/Bamboo-Charcoal-Sekken.html"/>
+        <id>file://C:\Users\Mehmet\Documents\Publii\sites\harmony-sekken\preview/Bamboo-Charcoal-Sekken.html</id>
+
+        <updated>2018-05-09T21:36:19+09:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="file://C:\Users\Mehmet\Documents\Publii\sites\harmony-sekken\preview/media/posts/2/annie-spratt-96529-unsplash.jpg" alt="" />
+                <p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Olive Oil Sekken</title>
+        <author>
+            <name>mehmet</name>
+        </author>
+        <link href="file://C:\Users\Mehmet\Documents\Publii\sites\harmony-sekken\preview/olive-oil-sekken.html"/>
+        <id>file://C:\Users\Mehmet\Documents\Publii\sites\harmony-sekken\preview/olive-oil-sekken.html</id>
+
+        <updated>2018-05-09T21:35:38+09:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="file://C:\Users\Mehmet\Documents\Publii\sites\harmony-sekken\preview/media/posts/1/sarah-gray-351935-unsplash.jpg" alt="" />
+                <strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+            ]]>
+        </content>
+    </entry>
+</feed>
