@@ -14,7 +14,7 @@
             "id": "https://soyut1.github.io/contact-us.html",
             "url": "https://soyut1.github.io/contact-us.html",
             "title": "Contact Us",
-            "content_html": "<p>Drop us a line</p>\n<div><form>\n<p><label for=\"fname\">First Name</label><br> <input id=\"fname\" style=\"width: 300px;\" name=\"firstname\" type=\"text\" placeholder=\"Your name..\"></p>\n<p><label for=\"lname\">Last Name</label><br> <input id=\"lname\" style=\"width: 300px;\" name=\"lastname\" type=\"text\" placeholder=\"Your last name..\"></p>\n<p><label for=\"email\">E-mail</label><br> <input id=\"email\" style=\"width: 300px;\" name=\"email\" type=\"email\" placeholder=\"Your E-mail..\"></p>\n<p><label for=\"subject\">Subject</label><br> <textarea id=\"subject\" style=\"height: 150px; width: 500px;\" name=\"subject\" placeholder=\"Write something..\"></textarea></p>\n<p><input type=\"submit\" value=\"Submit\"></p>\n</form></div>\n<p> </p>",
+            "content_html": "<p>Drop us a line</p>\n<div><form action=\"https://formspree.io/m4aydin@outlook.com\" method=\"POST\">\n<p><label for=\"fname\">First Name</label><br> <input id=\"fname\" style=\"width: 300px;\" name=\"firstname\" type=\"text\" placeholder=\"Your name..\"></p>\n<p><label for=\"lname\">Last Name</label><br> <input id=\"lname\" style=\"width: 300px;\" name=\"lastname\" type=\"text\" placeholder=\"Your last name..\"></p>\n<p><label for=\"email\">E-mail</label><br> <input id=\"email\" style=\"width: 300px;\" name=\"_replyto\" type=\"email\" placeholder=\"Your E-mail..\"></p>\n<p><label for=\"subject\">Subject</label><br> <textarea id=\"subject\" style=\"height: 150px; width: 500px;\" name=\"subject\" placeholder=\"Write something..\"></textarea></p>\n<!-- <p><input name=\"_language\" type=\"hidden\" value=\"ja\"></p> -->\n<p><input style=\"display: none;\" name=\"_gotcha\" type=\"text\"></p>\n<p><input type=\"submit\" value=\"SEND\"></p>\n</form></div>\n<p> </p>",
             "image": "https://soyut1.github.io/media/posts/6/scott-webb-186137-unsplash.jpg",
             "author": {
                 "name": "mehmet"
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2018-05-09T10:11:45+09:00",
-            "date_modified": "2018-05-09T21:41:02+09:00"
+            "date_modified": "2018-05-18T18:30:37+09:00"
         },
         {
             "id": "https://soyut1.github.io/cok-ustune-gitmecen.html",
@@ -90,9 +90,10 @@
                 "name": "mehmet"
             },
             "tags": [
+                   "Natural Sekken"
             ],
             "date_published": "2018-04-26T22:02:26+09:00",
-            "date_modified": "2018-05-09T21:35:38+09:00"
+            "date_modified": "2018-05-18T13:07:05+09:00"
         }
     ]
 }
